@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Props/static/css/main.f34659c2.css",
+    "main.js": "/Props/static/js/main.17aab557.js",
+    "static/media/siri.png": "/Props/static/media/siri.e6a70a555204b3a1f6f0.png",
+    "index.html": "/Props/index.html",
+    "main.f34659c2.css.map": "/Props/static/css/main.f34659c2.css.map",
+    "main.17aab557.js.map": "/Props/static/js/main.17aab557.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f34659c2.css",
+    "static/js/main.17aab557.js"
+  ]
+}
